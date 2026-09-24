@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThreadingLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12bdc2247ab79995c05580cf0029f7e4416c753b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60f18197766848492bf873aae05a2712abf0cf99")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThreadingLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThreadingLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
